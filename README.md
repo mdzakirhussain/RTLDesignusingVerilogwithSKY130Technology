@@ -94,6 +94,12 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <img  src="day1 simulation/1 mux/3 mux_execute.png">
   
   <b>Fig.2 Command to execute is "./a.out"</b>
+  <img src="day1 simulation/1 mux/4 mux_vcd file generated.png">
+  <b>Fig.3 shows vcd(value change dump) file been generated successfully</b>
+  <img src="day1 simulation/1 mux/5 gtkwave command.png">
+  <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
+  <img src="day1 simulation/1 mux/6 gtkwave output.png">
+  <b>Fig.5 Finally simulation result</b>
   
     
     
