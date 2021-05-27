@@ -85,7 +85,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
     <li>DFF with synchronous reset</li>
     </ol>
     
-   <li><b>Mux 2x1 Simulation results</b></li>
+   <li><b>Mux 2x1 Simulation results</b></li> 
     
   <img src="day1 simulation/1 mux/2 mux_compile.png">
    
@@ -101,7 +101,19 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <img src="day1 simulation/1 mux/6 gtkwave output.png">
   <b>Fig.5 Finally simulation result</b>
   
-    
+  <li><b>DFF with Asynchronous reset Simulation results</b></li>
+  
+  <img src="day1 simulation/2 dff asyncres/1 dff asyncres compile.png">
+  <b>Fig.1 compile design file and testbench file</b>
+     <img src="day1 simulation/2 dff asyncres/2 dff asyncres exec.png">
+      <b>Fig.2 execute  "./a.out"</b>
+       <img src="day1 simulation/2 dff asyncres/3 dff asyncres after exec vcd file.png">
+         <b>Fig.3 shows vcd(value change dump) file been generated successfully</b>
+         <img src="day1 simulation/2 dff asyncres/4 dff asyncres gtkwave command.png">
+        <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
+           <img src="day1 simulation/2 dff asyncres/5 dff asyncres gtkwave output.png">
+         <b>Fig.5 Finally simulation result</b>
+            
     
     
     
