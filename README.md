@@ -87,8 +87,14 @@ Learn basics of digital design using verilog language, various RTL coding styles
     
    <li><b>Mux 2x1 Simulation results</b></li>
     
-  <img src="day1 simulation/1 mux/1 mux_compile.png">
-    
+  <img src="day1 simulation/1 mux/2 mux_compile.png">
+   
+   <b>Fig.1 Command to compile design file and testbench file is "iverilog good_mux.v tb_good_mux.v"</b>
+  
+  <img  src="day1 simulation/1 mux/3 mux_execute.png">
+  
+  <b>Fig.2 Command to execute is "./a.out"</b>
+  
     
     
     
