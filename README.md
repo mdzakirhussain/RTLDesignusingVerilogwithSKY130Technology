@@ -80,3 +80,12 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <h3><li>Introduction to <a href="http://www.clifford.at/yosys/" onclick="window.open('http://www.clifford.at/yosys/', '_blank');">Yosys</a> and Logic synthesis</li></h3>
 <p align="justify">Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains. Selected features and typical applications:</p>
+
+<ol>
+  <li>Process almost any synthesizable Verilog-2005 design</li>
+<li>Converting Verilog to BLIF / EDIF/ BTOR / SMT-LIB / simple RTL Verilog / etc.</li>
+  <li>Built-in formal methods for checking properties and equivalence</li>
+  <li>Mapping to ASIC standard cell libraries (in Liberty File Format)</li>
+<li>Mapping to Xilinx 7-Series and Lattice iCE40 FPGAs</li>
+  <li>Foundation and/or front-end for custom flows</li>
+</ol>
