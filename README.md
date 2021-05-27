@@ -73,6 +73,8 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <h3><li>Labs using iverilog and <a href="http://gtkwave.sourceforge.net" onclick="window.open('http://gtkwave.sourceforge.net', '_blank');">gtkwave</a></li></h3>
 
 <p align="justify">The following are the commands to simulate the design written in the verilog code. Before going to simulation let us understand some terminology, Any design for example let us consider MUX 4x1 is been described in the Verilog HDL such a described file is called design file. Now, the description of the design is correct or not we need to confirm it, that is done through testbench, testbench is also a verilog code only but that consists of majorly two things 
+  <ol>
   <li> Instantiation of the design</li>
-  <li> Test Vectors<li>
+  <li> Test Vectors</li>
+    </ol>
 
