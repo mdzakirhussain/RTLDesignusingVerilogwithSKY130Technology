@@ -13,7 +13,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <h2>Day 1 - Introduction to Verilog RTL design and Synthesis</h2>
 <ul>
   <li>Introduction to open-source simulator iverilog</li>
-<li>Labs using iverilog and gtkwave</li?
+  <li>Labs using iverilog and gtkwave</li>
 <li>Introduction to Yosys and Logic synthesis</li>
 <li>Labs using Yosys and Sky130 PDKs</li>
 </ul>
@@ -58,13 +58,13 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <ul>
   <li>Introduction to open-source simulator iverilog</li>
-<li>Labs using iverilog and gtkwave</li?
+  <li>Labs using iverilog and gtkwave</li>
 <li>Introduction to Yosys and Logic synthesis</li>
 <li>Labs using Yosys and Sky130 PDKs</li>
 </ul>
 
 <li>Introduction to open-source simulator iverilog</li>
-<p>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the ``vvp'' command. For synthesis, the compiler generates netlists in the desired format.</p>
+<p align="justify">Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the ``vvp'' command. For synthesis, the compiler generates netlists in the desired format.</p>
 
 [For more Info.](http://iverilog.icarus.com)
 
