@@ -100,7 +100,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
   <img src="day1 simulation/1 mux/6 gtkwave output.png">
   <b>Fig.5 Finally simulation result</b>
-  
+  <br>
   <li><b>DFF with Asynchronous reset Simulation results</b></li>
   
   <img src="day1 simulation/2 dff asyncres/1 dff asyncres compile.png">
@@ -113,7 +113,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
         <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
            <img src="day1 simulation/2 dff asyncres/5 dff asyncres gtkwave output.png">
          <b>Fig.5 Finally simulation result</b>
-            
+          <br>  
    <li><b>DFF with Asynchronous set Simulation results</b></li>
     <img src="day1 simulation/3 dff async set/1 dff async set compile.png">
     <b>Fig.1 compile design file and testbench file</b>
@@ -123,8 +123,23 @@ Learn basics of digital design using verilog language, various RTL coding styles
        <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
        <img src="day1 simulation/3 dff async set/4 dff async set gtkwave output.png">
        <b>Fig.5 Finally simulation result</b>
-       
-       
+       <br>
+   <li><b>DFF with synchronous reset Simulation results</b></li> 
+   <img src="day1 simulation/4 dff syncres/1 dff syncres compile.png">
+   <b>Fig.1 compile design file and testbench file</b>
+    <img src="day1 simulation/4 dff syncres/2 dff syncres exec.png">
+       <b>Fig.2 execute  "./a.out"</b>
+     <img src="day1 simulation/4 dff syncres/3 dff syncres gtkwave command.png">
+     <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
+      <img src="day1 simulation/4 dff syncres/4 dff syncres gtkwave output.png">
+      <b>Fig.5 Finally simulation result</b>
+   
+   
+   
+   
+   
+   
+   
 
 <h3><li>Introduction to <a href="http://www.clifford.at/yosys/" onclick="window.open('http://www.clifford.at/yosys/', '_blank');">Yosys</a> and Logic synthesis</li></h3>
 <p align="justify">Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains. Selected features and typical applications:</p>
