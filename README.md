@@ -18,29 +18,37 @@ Workshop Day wise Content :
 <li>Labs using Yosys and Sky130 PDKs</li>
 </ul>
 
-Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles
+<h2>Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</h2>
 
-Introduction to timing .libs
-Hierarchical vs Flat Synthesis
-Various Flop Coding Styles and optimization
+<ul>
+<li>Introduction to timing .libs</li>
+<li>Hierarchical vs Flat Synthesis</li>
+<li>Various Flop Coding Styles and optimization</li>
+</ul>
 
-Day 3 - Combinational and sequential optmizations
+<h2>Day 3 - Combinational and sequential optmizations</h2>
 
-Introduction to optimizations
-Combinational logic optimizations
-Sequential logic optimizations
-Sequential optimzations for unused outputs
+<ul>
+<li>Introduction to optimizations</li>
+<li>Combinational logic optimizations</li>
+<li>Sequential logic optimizations</li>
+<li>Sequential optimzations for unused outputs</li>
+</ul>
 
-Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+<h2>Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch</h2>
 
-GLS, Synthesis-Simulation mismatch and Blocking/Non-blocking statements
-Labs on GLS and Synthesis-Simulation Mismatch
-Labs on synth-sim mismatch for blocking statement
+<ul>
+<li>GLS, Synthesis-Simulation mismatch and Blocking/Non-blocking statements</li>
+<li>Labs on GLS and Synthesis-Simulation Mismatch</li>
+<li>Labs on synth-sim mismatch for blocking statement</li>
+</ul>
 
-Day 5 - Optimization in synthesis
+<h2>Day 5 - Optimization in synthesis</h2>
 
-If Case constructs
-Labs on "Incomplete If Case"
-Labs on "Incomplete overlapping Case"
-for loop and for generate
-Labs on "for loop" and "for generate"
+<ul>
+<li>If Case constructs</li>
+<li>Labs on "Incomplete If Case"</li>
+<li>Labs on "Incomplete overlapping Case"</li>
+<li>for loop and for generate</li>
+<li>Labs on "for loop" and "for generate"</li>
+</ul>
