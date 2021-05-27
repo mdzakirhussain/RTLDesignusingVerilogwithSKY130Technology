@@ -66,4 +66,4 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>Introduction to open-source simulator iverilog</li>
 <p>Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the ``vvp'' command. For synthesis, the compiler generates netlists in the desired format.</p>
 
-[For more Info.](http://iverilog.icarus.com)[:target="_blank"]
+[For more Info.](http://iverilog.icarus.com)
