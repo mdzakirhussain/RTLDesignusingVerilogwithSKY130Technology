@@ -7,8 +7,8 @@ This is an 5-Day online workshop conducted by VLSI System Design, Banglore from 
 Learn basics of digital design using verilog language, various RTL coding styles, typical synthesis problems faced by industry and how to solve them in Verilog
 
 <p align="justify">Workshop intends to teach the verilog coding guidelines that results in predictable logic in Silicon. it is important to note that every verilog code is not synthesizable and even if it is , it may result in different logic depending on the coding styles used. The course details all these aspects of the Verilog HDL with theory and backed with lot of practical examples. Workshop introduces to the digital logic design using Verilog HDL . Validating the functionality of the design using Functional Simulation. Writing Test Benches to validate the functionality of the RTL design . Logic synthesis of the Functional RTL Code. Gate Level Simulation of the Synthesized Netlist.</p>
-
-<h1 style="border: 2px solid DodgerBlue;">Workshop Day wise Content :</h1>
+<details>
+<h1>Workshop Day wise Content :</h1>
 
 <h2>Day 1 - Introduction to Verilog RTL design and Synthesis</h2>
 <ul>
@@ -52,3 +52,4 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>for loop and for generate</li>
 <li>Labs on "for loop" and "for generate"</li>
 </ul>
+</details>
