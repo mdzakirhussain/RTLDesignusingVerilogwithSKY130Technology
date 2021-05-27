@@ -68,4 +68,3 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 [For more Info.](http://iverilog.icarus.com)
 
-<a href="http://iverilog.icarus.com" target=_blank>For more Info.</a>
