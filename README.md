@@ -60,7 +60,9 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <ul>
   <li>Introduction to open-source simulator iverilog</li>
-  <li>Labs using iverilog and [gtkwave](http://gtkwave.sourceforge.net)</li>
+  <li>Labs using iverilog and 
+ [gtkwave](http://gtkwave.sourceforge.net)
+ </li>
 <li>Introduction to Yosys and Logic synthesis</li>
 <li>Labs using Yosys and Sky130 PDKs</li>
 </ul>
