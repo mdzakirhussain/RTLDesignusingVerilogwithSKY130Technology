@@ -54,7 +54,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>for loop and for generate</li>
 <li>Labs on "for loop" and "for generate"</li>
 </ul>
-</details>
+<h2></details></h2>
 
 <h1>Day 1 - Introduction to Verilog RTL design and Synthesis</h1>
 
