@@ -64,12 +64,12 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>Labs using Yosys and Sky130 PDKs</li>
 </ul>
 
-<li>Introduction to open-source simulator iverilog</li>
+<li><h3>Introduction to open-source simulator iverilog</h3></li>
 <p align="justify">Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the ``vvp'' command. For synthesis, the compiler generates netlists in the desired format.</p>
 
 [For more Info.](http://iverilog.icarus.com)
 
-<li>Labs using iverilog and gtkwave</li>
+<li><h3>Labs using iverilog and gtkwave</h3></li>
 
 <p align="justify">The following are the commands to simulate the design written in the verilog code. Before going to simulation let us understand some terminology, Any design for example MUX 4x1 is been described in the Verilog HDL such described file is called design file. Now, the description of the design is correct or not we need to confirm it that is done through testbench, testbench is also a Verilog code only but that consists of two things 
   <li> Instantiation of the design</li>
