@@ -78,16 +78,16 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li> Test Vectors</li>
     </ol>
     
-    <p>We did the following list of simulation</p>
-    <ol><li>Mux 2x1</li>
+ <p>We did the following list of simulation</p>
+  <ol><li>Mux 2x1</li>
     <li>DFF with Asynchronous reset</li>
     <li>DFF with synchronous set</li>
     <li>DFF with synchronous reset</li>
     </ol>
     
-    <li><b>Mux 2x1 Simulation results</b></li>
+   <li><b>Mux 2x1 Simulation results</b></li>
     
-    <img src="day1 simulation/1 mux/1 mux_compile.png">
+  <img src="day1 simulation/1 mux/1 mux_compile.png">
     
     
     
