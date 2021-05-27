@@ -124,7 +124,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
        <img src="day1 simulation/3 dff async set/4 dff async set gtkwave output.png">
        <b>Fig.5 Finally simulation result</b>
        
-       <br \>
+       
    <li><b>DFF with synchronous reset Simulation results</b></li> 
    <img src="day1 simulation/4 dff syncres/1 dff syncres compile.png">
    <b>Fig.1 compile design file and testbench file</b>
