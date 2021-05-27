@@ -77,6 +77,22 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li> Instantiation of the design</li>
   <li> Test Vectors</li>
     </ol>
+    
+    <p>We did the following list of simulation</p>
+    <ol><li>Mux 2x1</li>
+    <li>DFF with Asynchronous reset</li>
+    <li>DFF with synchronous set</li>
+    <li>DFF with synchronous reset</li>
+    </ol>
+    
+    <li><b>Mux 2x1 Simulation results</b></li>
+    
+    <img src="day1 simulation/1 mux/1 mux_compile.png">
+    
+    
+    
+    
+    
 
 <h3><li>Introduction to <a href="http://www.clifford.at/yosys/" onclick="window.open('http://www.clifford.at/yosys/', '_blank');">Yosys</a> and Logic synthesis</li></h3>
 <p align="justify">Yosys is a framework for Verilog RTL synthesis. It currently has extensive Verilog-2005 support and provides a basic set of synthesis algorithms for various application domains. Selected features and typical applications:</p>
