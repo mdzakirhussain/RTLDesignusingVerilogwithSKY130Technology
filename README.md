@@ -122,8 +122,9 @@ Learn basics of digital design using verilog language, various RTL coding styles
       <img src="day1 simulation/3 dff async set/3 dff async set gtkwave command.png">
        <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
        <img src="day1 simulation/3 dff async set/4 dff async set gtkwave output.png">
-       <b>Fig.5 Finally simulation result</b>\
-       \
+       <b>Fig.5 Finally simulation result</b>
+       
+       <br \>
    <li><b>DFF with synchronous reset Simulation results</b></li> 
    <img src="day1 simulation/4 dff syncres/1 dff syncres compile.png">
    <b>Fig.1 compile design file and testbench file</b>
