@@ -275,6 +275,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <img src="hier vs flat/11 flatten.png">
 <b>Fig.10 Command for Flatten synthesis</b>
 
-<img src="hier vs flat/12 show command for flatten.png">
+<img src="hier vs flat/13 show op for flatten.png">
 <b>Fig.11 Result of flatten synthesis</b>
 
+<h3><li>Various Flop Coding Styles and optimization</li></h3>
