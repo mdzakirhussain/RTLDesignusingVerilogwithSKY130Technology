@@ -25,7 +25,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <ul>
 <li>Introduction to timing .libs</li>
 <li>Hierarchical vs Flat Synthesis</li>
-<li>Various Flop Coding Styles and optimization</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#various-flop-coding-styles-and-optimization">Various Flop Coding Styles and optimization<a/></li>
 </ul>
 
 <h2>Day 3 - Combinational and sequential optmizations</h2>
@@ -187,7 +187,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <ul>
 <li>Introduction to timing .libs</li>
 <li>Hierarchical vs Flat Synthesis</li>
-<li>Various Flop Coding Styles and optimization</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#various-flop-coding-styles-and-optimization">Various Flop Coding Styles and optimization<a/></li>
 </ul>  
   
   <p align="justify">In the Day 2 of the workshop, we have been given Introduction to what standard cells library means and what it contains. And also about types of synthesis such as differences between hierarchical vs flat synthesis. And, finally we also been given insights on optimization and different coding styles.</p>
