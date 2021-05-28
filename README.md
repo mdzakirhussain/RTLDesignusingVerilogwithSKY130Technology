@@ -24,8 +24,8 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <ul>
 <li>Introduction to timing .libs</li>
-<li>Hierarchical vs Flat Synthesis</li>
-<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#various-flop-coding-styles-and-optimization">Various Flop Coding Styles and optimization<a/></li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#hierarchical-vs-flat-synthesis">Hierarchical vs Flat Synthesis</a></li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#various-flop-coding-styles-and-optimization">Various Flop Coding Styles and optimization</a></li>
 </ul>
 
 <h2>Day 3 - Combinational and sequential optmizations</h2>
@@ -186,7 +186,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <ul>
 <li>Introduction to timing .libs</li>
-<li>Hierarchical vs Flat Synthesis</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#hierarchical-vs-flat-synthesis">Hierarchical vs Flat Synthesis</a></li>
 <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#various-flop-coding-styles-and-optimization">Various Flop Coding Styles and optimization<a/></li>
 </ul>  
   
