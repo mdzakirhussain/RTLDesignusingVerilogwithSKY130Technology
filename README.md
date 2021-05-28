@@ -157,3 +157,4 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>Mapping to Xilinx 7-Series and Lattice iCE40 FPGAs</li>
   <li>Foundation and/or front-end for custom flows</li>
 </ol>
+<b><li>What is Logic Synthesis?</li></b>
