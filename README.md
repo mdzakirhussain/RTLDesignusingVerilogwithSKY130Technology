@@ -169,11 +169,11 @@ Learn basics of digital design using verilog language, various RTL coding styles
     </ol>
     <p>The following commands and steps are followed for performing the synthesis using yosys synthesizer</p>
     <li>First we have to read standard cells library into the yosys using the command<br /><b>read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib</b><br />
-Here sky130_fd_sc_hd__tt_025C_1v80.lib is standard cell library which is from <a href="https://www.skywatertechnology.com">skywatertechnology<a/></li>
+<br />Here sky130_fd_sc_hd__tt_025C_1v80.lib is standard cell library which is from <a href="https://www.skywatertechnology.com">skywatertechnology<a/></li>
      <li>Second step is to read verilog files into the yosys using the command<br /><b>read_verilog filename.v</b></li>
-      <li>Thrird step is to perform synthesis using the command<br />synth -top module_name</li>
-       <li>Fourth step is to map to standard cells using the following command<br />
-<b>abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib</b></li>
+      <br /><li>Thrird step is to perform synthesis using the command<br />synth -top module_name</li><br />
+       <br /><li>Fourth step is to map to standard cells using the following command<br />
+<br /><b>abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib</b></li>
         <li>Fifth step is to write out the netlist file using the command<br /><b>write_verilog your_file_name.v</b></li>
      
      
