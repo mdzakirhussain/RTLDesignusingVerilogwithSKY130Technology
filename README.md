@@ -158,4 +158,25 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li>Foundation and/or front-end for custom flows</li>
 </ol>
 <b><li>What is Logic Synthesis?</li></b>
-<p align="justify">Logic synthesis is a process of converting HDL code to gate level information, which is technically called gate-level netlist. To do logic synthesis we use software tool called synthesizer, in our case we are using open-source synthesizer tool called yosys</p>
+<p align="justify">Logic synthesis is a process of converting HDL code to gate level information, which is technically called gate-level netlist. To do logic synthesis we use software tool called synthesizer, in our case we are using open-source synthesizer tool called yosys.</p>
+
+<h3><li>Labs using Yosys and Sky130 PDKs</li></h3>
+<p>We did the synthesis for the following list of designs</p>
+  <ol><li>Mux 2x1</li>
+    <li>DFF with Asynchronous reset</li>
+    <li>DFF with synchronous set</li>
+    <li>DFF with synchronous reset</li>
+    </ol>
+    <p>The following commands and steps are followed for performing the synthesis using yosys synthesizer</p>
+    <li>First we have to read standard cells library into the yosys using the command<br /><b>read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib</b><br />
+Here sky130_fd_sc_hd__tt_025C_1v80.lib is standard cell library which is from [skywater](https://www.skywatertechnology.com/)</li>
+     <li>Second step is to read verilog files into the yosys using the command<br /><b>read_verilog filename.v</b></li>
+      <li>Thrird step is to perform synthesis using the command<br />synth -top module_name</li>
+       <li>Fourth step is to map to standard cells using the following command<br />
+<b>abc -liberty sky130_fd_sc_hd__tt_025C_1v80.lib</b></li>
+        <li>Fifth step is to write out the netlist file using the command<br /><b>write_verilog your_file_name.v</b></li>
+     
+     
+     
+     
+     
