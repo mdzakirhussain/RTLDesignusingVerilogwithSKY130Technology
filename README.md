@@ -240,3 +240,41 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <img src="lib file/1 lib file sample.png">
 <img src="lib file/2 lib file sample.png">
+
+<h3><li>Hierarchical vs Flat Synthesis</li></h3>
+
+<p>The following are the images of synthesis showing differences between hierarchical and flat synthesis </p>
+
+<img src="hier vs flat/1 invoke yosys.png">
+<b>Fig.1 Invoke yosys</b>
+
+<img src="hier vs flat/2 yosys terminal.png">
+<b>Fig.2 Yosys terminal</b>
+
+<img src="hier vs flat/3 read liberty.png">
+<b>Fig.3 Read liberty</b>
+
+<img src="hier vs flat/4 read verilog.png">
+<b>Fig.4 Read verilog</b>
+
+<img src="hier vs flat/5 after read.png">
+<b>Fig.5 After verilog read</b>
+
+<img src="hier vs flat/6 synth -top hier.png">
+<b>Fig.6 Synth -top for netlist</b>
+
+<img src="hier vs flat/7 after synth command.png">
+<b>Fig.7 After synth command</b>
+
+<img src="hier vs flat/8 abc command.png">
+<b>Fig.8 abc command to map to standard cells</b>
+
+<img src="hier vs flat/10 show op.png">
+<b>Fig.9 Result of hierarchical synthesis </b>
+
+<img src="hier vs flat/11 flatten.png">
+<b>Fig.10 Command for Flatten synthesis</b>
+
+<img src="hier vs flat/12 show command for flatten.png">
+<b>Fig.11 Result of flatten synthesis</b>
+
