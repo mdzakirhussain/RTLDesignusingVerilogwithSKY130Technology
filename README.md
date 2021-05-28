@@ -158,3 +158,4 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li>Foundation and/or front-end for custom flows</li>
 </ol>
 <b><li>What is Logic Synthesis?</li></b>
+<p align="justify">Logic synthesis is a process of converting HDL code to gate level information, which is technically called gate-level netlist. To do logic synthesis we use software tool called synthesizer, in our case we are using open-source synthesizer tool called yosys</p>
