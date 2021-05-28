@@ -220,8 +220,13 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <b>Fig.11 View in Diagram</b>
   
   
-  
-  
+<h2>Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</h2>
+
+<ul>
+<li>Introduction to timing .libs</li>
+<li>Hierarchical vs Flat Synthesis</li>
+<li>Various Flop Coding Styles and optimization</li>
+</ul>  
   
   
   
