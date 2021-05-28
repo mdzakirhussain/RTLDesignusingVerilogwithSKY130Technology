@@ -184,4 +184,4 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li><b>Fifth step</b> is to write out the netlist file using the command</li><br />
   <b><li>write_verilog your_file_name.v</li></b>
   
-  <h4>Mux 2x1 Synthesis results</h4>
+  <h4><li>Mux 2x1 Synthesis results</li></h4>
