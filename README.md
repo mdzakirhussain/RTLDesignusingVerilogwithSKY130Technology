@@ -20,7 +20,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#labs-using-yosys-and-sky130-pdks">Labs using Yosys and Sky130 PDKs</a></li>
 </ul>
 
-<h2>Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</h2>
+<h2><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#day-2---timing-libs-hierarchical-vs-flat-synthesis-and-efficient-flop-coding-styles-1">Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</a></h2>
 
 <ul>
 <li>Introduction to timing .libs</li>
