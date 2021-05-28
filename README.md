@@ -104,36 +104,6 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <img src="day1 simulation/1 mux/6 gtkwave output.png">
   <b>Fig.5 Finally simulation result</b>
   <br />
-  <br /><li><b>DFF with Asynchronous reset Simulation results</b></li>
-  
-  <img src="day1 simulation/2 dff asyncres/1 dff asyncres compile.png">
-  <b>Fig.1 compile design file and testbench file</b>
-     <img src="day1 simulation/2 dff asyncres/2 dff asyncres exec.png">
-      <b>Fig.2 execute  "./a.out"</b>
-       <img src="day1 simulation/2 dff asyncres/3 dff asyncres after exec vcd file.png">
-         <b>Fig.3 shows vcd(value change dump) file been generated successfully</b>
-         <img src="day1 simulation/2 dff asyncres/4 dff asyncres gtkwave command.png">
-        <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
-           <img src="day1 simulation/2 dff asyncres/5 dff asyncres gtkwave output.png">
-         <b>Fig.5 Finally simulation result</b><br />  
-   <br /><li><u><b>DFF with Asynchronous set Simulation results</b></u></li><br />
-    <br /><img src="day1 simulation/3 dff async set/1 dff async set compile.png">
-    <b>Fig.1 compile design file and testbench file</b>
-     <img src="day1 simulation/3 dff async set/2 dff asyn set exec.png">
-      <b>Fig.2 execute  "./a.out"</b>
-      <img src="day1 simulation/3 dff async set/3 dff async set gtkwave command.png">
-       <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
-       <img src="day1 simulation/3 dff async set/4 dff async set gtkwave output.png">
-       <b>Fig.4 Finally simulation result</b><br />
-       <br /><li><b>DFF with synchronous reset Simulation results</b></li> 
-   <img src="day1 simulation/4 dff syncres/1 dff syncres compile.png">
-   <b>Fig.1 compile design file and testbench file</b>
-    <img src="day1 simulation/4 dff syncres/2 dff syncres exec.png">
-       <b>Fig.2 execute  "./a.out"</b>
-     <img src="day1 simulation/4 dff syncres/3 dff syncres gtkwave command.png">
-     <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
-      <img src="day1 simulation/4 dff syncres/4 dff syncres gtkwave output.png">
-      <b>Fig.4 Finally simulation result</b>
    
    
    
@@ -279,3 +249,35 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <b>Fig.11 Result of flatten synthesis</b>
 
 <h3><li>Various Flop Coding Styles and optimization</li></h3>
+
+ <br /><li><b>DFF with Asynchronous reset Simulation results</b></li>
+  
+  <img src="day1 simulation/2 dff asyncres/1 dff asyncres compile.png">
+  <b>Fig.1 compile design file and testbench file</b>
+     <img src="day1 simulation/2 dff asyncres/2 dff asyncres exec.png">
+      <b>Fig.2 execute  "./a.out"</b>
+       <img src="day1 simulation/2 dff asyncres/3 dff asyncres after exec vcd file.png">
+         <b>Fig.3 shows vcd(value change dump) file been generated successfully</b>
+         <img src="day1 simulation/2 dff asyncres/4 dff asyncres gtkwave command.png">
+        <b>Fig.4 shows the command to invoke gtkwave using vcd file</b>
+           <img src="day1 simulation/2 dff asyncres/5 dff asyncres gtkwave output.png">
+         <b>Fig.5 Finally simulation result</b><br />  
+   <br /><li><u><b>DFF with Asynchronous set Simulation results</b></u></li><br />
+    <br /><img src="day1 simulation/3 dff async set/1 dff async set compile.png">
+    <b>Fig.1 compile design file and testbench file</b>
+     <img src="day1 simulation/3 dff async set/2 dff asyn set exec.png">
+      <b>Fig.2 execute  "./a.out"</b>
+      <img src="day1 simulation/3 dff async set/3 dff async set gtkwave command.png">
+       <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
+       <img src="day1 simulation/3 dff async set/4 dff async set gtkwave output.png">
+       <b>Fig.4 Finally simulation result</b><br />
+       <br /><li><b>DFF with synchronous reset Simulation results</b></li> 
+   <img src="day1 simulation/4 dff syncres/1 dff syncres compile.png">
+   <b>Fig.1 compile design file and testbench file</b>
+    <img src="day1 simulation/4 dff syncres/2 dff syncres exec.png">
+       <b>Fig.2 execute  "./a.out"</b>
+     <img src="day1 simulation/4 dff syncres/3 dff syncres gtkwave command.png">
+     <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
+      <img src="day1 simulation/4 dff syncres/4 dff syncres gtkwave output.png">
+      <b>Fig.4 Finally simulation result</b>
+ 
