@@ -228,6 +228,6 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>Various Flop Coding Styles and optimization</li>
 </ul>  
   
-  <p align="justify">In the Day 2 of the workshop, we have been given Introduction to what standard cells library means and what it contains. And also about types of synthesis such as differences between hierarchical vs flat synthesis. And, finally we also been given insights on optimiztion and different coding styles.</p>
+  <p align="justify">In the Day 2 of the workshop, we have been given Introduction to what standard cells library means and what it contains. And also about types of synthesis such as differences between hierarchical vs flat synthesis. And, finally we also been given insights on optimization and different coding styles.</p>
   
   
