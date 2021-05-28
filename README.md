@@ -87,7 +87,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
     <p>The following commands are used for performing the simulation using iverilog simulator</p>
     <ol>
 <li>For compiling the design file(s) and testbench file<br /><b>iverilog design_file_name.v testbench_file_name.v</b></li>
-  <li>After comiling a file with the name and extension  <b>a.out</b> will be generated. And this file is executed using the command<br /><b>vvp a.out</b><br />This will generate a file with the extension .vcd<br />For this file name can be given by the user in the testbench</li>
+  <li>After comiling a file with the name and extension  <b>a.out</b> will be generated. And this file is executed using the command<br /><b>vvp a.out</b><br />This will generate a file with the extension .vcd, for this file name can be given by the user in the testbench.</li>
   <li>And finally to see the waveform we use gtkwave using the coomand<br /><b>gtkwave filename.vcd</b></li>
   
 </ol>
@@ -121,8 +121,8 @@ Learn basics of digital design using verilog language, various RTL coding styles
            <img src="day1 simulation/2 dff asyncres/5 dff asyncres gtkwave output.png">
          <b>Fig.5 Finally simulation result</b>
           <br>  
-   <li><b>DFF with Asynchronous set Simulation results</b></li>
-    <img src="day1 simulation/3 dff async set/1 dff async set compile.png">
+   <li><b><u>DFF with Asynchronous set Simulation results</u></b></li><br />
+    <br /><img src="day1 simulation/3 dff async set/1 dff async set compile.png">
     <b>Fig.1 compile design file and testbench file</b>
      <img src="day1 simulation/3 dff async set/2 dff asyn set exec.png">
       <b>Fig.2 execute  "./a.out"</b>
