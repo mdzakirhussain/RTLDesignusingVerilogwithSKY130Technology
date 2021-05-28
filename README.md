@@ -78,7 +78,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li> Test Vectors</li>
     </ol>
     
- <p>We did the following list of simulation</p>
+ <p>We did the following simulation for Day-1</p>
   <ol><li>Mux 2x1</li></ol>
     <p>The following commands are used for performing the simulation using iverilog simulator</p>
     <ol>
@@ -157,7 +157,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <p align="justify">Logic synthesis is a process of converting HDL code to gate level information, which is technically called gate-level netlist. To do logic synthesis we use software tool called synthesizer, in our case we are using open-source synthesizer tool called yosys.</p>
 
 <h3><li>Labs using Yosys and Sky130 PDKs</li></h3>
-<p>We did the synthesis for the following list of designs</p>
+<p>We did the synthesis for the following design on Day-1</p>
   <ol><li>Mux 2x1</li></ol>
     <p>The following commands and steps are followed for performing the synthesis using yosys synthesizer</p>
    <li><b>First step</b> we have to read standard cells library into the yosys using the command</li><br />
@@ -222,14 +222,21 @@ Learn basics of digital design using verilog language, various RTL coding styles
   
   <p align="justify">In the Day 2 of the workshop, we have been given Introduction to what standard cells library means and what it contains. And also about types of synthesis such as differences between hierarchical vs flat synthesis. And, finally we also been given insights on optimization and different coding styles.</p>
   
-   <p>We did the following list of simulation on Day-2</p>
+   <p>We did the simulation on Day-2 for following list </p>
   <ol><li>DFF with Asynchronous reset</li>
     <li>DFF with synchronous set</li>
     <li>DFF with synchronous reset</li>
     </ol><br />
-    <p>We did the synthesis for the following list of designs</p>
+    <p>We did the synthesis for the following list of designs on Day-2</p>
   <ol>
+  <li>Multi module synthesis using hierarchical and flat approaches</li>
     <li>DFF with Asynchronous reset</li>
     <li>DFF with synchronous set</li>
     <li>DFF with synchronous reset</li>
     </ol>
+<h3><li>Introduction to timing .libs</li></h3>
+
+<p>Sample of .lib that is liberty file</p>
+
+<img src="lib file/1 lib file sample.png">
+<img src="lib file/2 lib file sample.png">
