@@ -84,6 +84,17 @@ Learn basics of digital design using verilog language, various RTL coding styles
     <li>DFF with synchronous set</li>
     <li>DFF with synchronous reset</li>
     </ol>
+    <p>The following commands are used for performing the simulation using iverilog simulator</p>
+    <ol>
+<li>For compiling the design file(s) and testbench file<br /><b>iverilog design_file_name.v testbench_file_name.v</b></li>
+  <li>After comiling a file with the extension a.out will be generated. And this file is executed using the command<br /><b>vvp a.out</b><br />This will generate a file with the extension .vcd</li>
+  <li>And finally to see the waveform we use gtkwave using the coomand<br /><b>gtkwave filename.vcd</b></li>
+  <li></li>
+  <li></li>
+
+
+
+</ol>
     
    <li><b>Mux 2x1 Simulation results</b></li> 
     
