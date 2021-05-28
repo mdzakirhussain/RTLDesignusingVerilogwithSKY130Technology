@@ -17,7 +17,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   
   <li>Labs using iverilog and <a href="http://gtkwave.sourceforge.net" onclick="window.open('http://gtkwave.sourceforge.net', '_self');">gtkwave</a></li>
 <li>Introduction to Yosys and Logic synthesis</li>
-<li>Labs using Yosys and Sky130 PDKs</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#labs-using-yosys-and-sky130-pdks">Labs using Yosys and Sky130 PDKs</a></li>
 </ul>
 
 <h2>Day 2 - Timing libs, hierarchical vs flat synthesis and efficient flop coding styles</h2>
