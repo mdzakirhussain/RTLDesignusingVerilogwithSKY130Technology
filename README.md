@@ -79,11 +79,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
     </ol>
     
  <p>We did the following list of simulation</p>
-  <ol><li>Mux 2x1</li>
-    <li>DFF with Asynchronous reset</li>
-    <li>DFF with synchronous set</li>
-    <li>DFF with synchronous reset</li>
-    </ol>
+  <ol><li>Mux 2x1</li></ol>
     <p>The following commands are used for performing the simulation using iverilog simulator</p>
     <ol>
 <li>For compiling the design file(s) and testbench file<br /><b>iverilog design_file_name.v testbench_file_name.v</b></li>
@@ -162,11 +158,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <h3><li>Labs using Yosys and Sky130 PDKs</li></h3>
 <p>We did the synthesis for the following list of designs</p>
-  <ol><li>Mux 2x1</li>
-    <li>DFF with Asynchronous reset</li>
-    <li>DFF with synchronous set</li>
-    <li>DFF with synchronous reset</li>
-    </ol>
+  <ol><li>Mux 2x1</li></ol>
     <p>The following commands and steps are followed for performing the synthesis using yosys synthesizer</p>
    <li><b>First step</b> we have to read standard cells library into the yosys using the command</li><br />
   <b><li>read_liberty -lib sky130_fd_sc_hd__tt_025C_1v80.lib</li></b><br />
@@ -230,4 +222,14 @@ Learn basics of digital design using verilog language, various RTL coding styles
   
   <p align="justify">In the Day 2 of the workshop, we have been given Introduction to what standard cells library means and what it contains. And also about types of synthesis such as differences between hierarchical vs flat synthesis. And, finally we also been given insights on optimization and different coding styles.</p>
   
-  
+   <p>We did the following list of simulation on Day-2</p>
+  <ol><li>DFF with Asynchronous reset</li>
+    <li>DFF with synchronous set</li>
+    <li>DFF with synchronous reset</li>
+    </ol><br />
+    <p>We did the synthesis for the following list of designs</p>
+  <ol>
+    <li>DFF with Asynchronous reset</li>
+    <li>DFF with synchronous set</li>
+    <li>DFF with synchronous reset</li>
+    </ol>
