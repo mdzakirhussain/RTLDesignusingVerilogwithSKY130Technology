@@ -184,4 +184,45 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li><b>Fifth step</b> is to write out the netlist file using the command</li><br />
   <b><li>write_verilog your_file_name.v</li></b>
   
-  <h4><li>Mux 2x1 Synthesis results</li></h4>
+  <h3><li>Mux 2x1 Synthesis results</li></h3>
+  
+  <img src="day1 synthesis/1 mux/1 command to invoke yosys.png">
+  <b>Fig.1 Invoking yosys</b>
+  
+  <img src="day1 synthesis/1 mux/2 yosys terminal.png">
+  <b>Fig.2 Yosys terminal</b>
+  
+  <img src="day1 synthesis/1 mux/3 read liberty file.png">
+  <b>Fig.3 Read liberty file</b>
+  
+  <img src="day1 synthesis/1 mux/4 read verilog file.png">
+  <b>Fig.4 Read verilog file</b>
+  
+  <img src="day1 synthesis/1 mux/5 synth command.png">
+  <b>Fig.5 Run synthesis</b>
+  
+  <img src="day1 synthesis/1 mux/6 after synth.png">
+  <b>Fig.6 After synthesis</b>
+  
+  <img src="day1 synthesis/1 mux/7 abc command to generate netlist.png">
+  <b>Fig.7 Stabdard cell netlist generation command</b>
+  
+  <img src="day1 synthesis/1 mux/8 after netlist.png">
+  <b>Fig.8 After stabdard cell netlist</b>
+  
+  <img src="day1 synthesis/1 mux/9 write netlist.png">
+  <b>Fig.9 Writing out standard cell netlist to a file</b>
+  
+  <img src="day1 synthesis/1 mux/10 show command.png">
+  <b>Fig.10 Show command to view the diagram of cells</b>
+  
+  <img src="day1 synthesis/1 mux/11 after show command.png">
+  <b>Fig.11 View in Diagram</b>
+  
+  
+  
+  
+  
+  
+  
+  
