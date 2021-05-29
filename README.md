@@ -398,7 +398,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <img src="day3 synthesis/opt check/1 read liberty.png">
 <b>Fig.1 Read liberty file</b>
   
-  <img src="ay3 synthesis/sequential/dff const1/4 read verilog.png">
+  <img src="day3 synthesis/sequential/dff const1/4 read verilog.png">
 <b>Fig.2 Read verilog file</b>
 
 <img src="day3 synthesis/sequential/dff const1/5 synth top.png">
