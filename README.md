@@ -313,7 +313,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   </ol>
   </p>
 
-<p align="justify"><b>The following are the images of simulation results of various coding styles of Sequential logic done in the lab<b/></p>
+<h4>The following are the images of simulation results of various coding styles of Sequential logic done in the lab</h4>
 
 <ul><li><b>DFF CONST1 Simulation results</b></li></ul>
  
@@ -364,9 +364,9 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <b>Fig.4 Invoking of gtkwave command</b>
 
 <img src="day3 simulation/dff const3 simulation/5 gtkwave op.png">
-<b>Fig.5 Simulation output</b>
+<b>Fig.5 Simulation output</b><br />
 
-<p align="justify"><b>The following are the images of synthesis results of various coding styles of combinational logic done in the lab<b/></p>
+<h4>The following are the images of synthesis results of various coding styles of combinational logic done in the lab<h4/>
 
   <ul><li><b>opt_check synthesis results</b></li></ul>
   
