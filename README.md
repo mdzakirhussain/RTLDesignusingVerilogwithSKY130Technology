@@ -279,5 +279,13 @@ Learn basics of digital design using verilog language, various RTL coding styles
      <img src="day1 simulation/4 dff syncres/3 dff syncres gtkwave command.png">
      <b>Fig.3 shows the command to invoke gtkwave using vcd file</b>
       <img src="day1 simulation/4 dff syncres/4 dff syncres gtkwave output.png">
-      <b>Fig.4 Finally simulation result</b>
- 
+      <b>Fig.4 Finally simulation result</b><br />
+      
+      <h2>Day 3 - Combinational and sequential optmizations</h2>
+      <ul>
+<li>Introduction to optimizations</li>
+<li>Combinational logic optimizations</li>
+<li>Sequential logic optimizations</li>
+<li>Sequential optimzations for unused outputs</li>
+ </ul>
+<p>In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for Combinational and sequential designs</p>
