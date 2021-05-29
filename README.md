@@ -288,4 +288,5 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <li>Sequential logic optimizations</li>
 <li>Sequential optimzations for unused outputs</li>
  </ul>
-<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for Combinational and sequential designs</p>
+<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for combinational and sequential designs. Most optimized logic is efficient in terms of <b>area and power saving.</b>Combinational logic optimization may use techniques such as<br /><ol><li>Constant propagation</li><li>Boolean logic optimization</li></ol>
+</p>
