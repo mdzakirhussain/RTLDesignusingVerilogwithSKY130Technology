@@ -281,12 +281,12 @@ Learn basics of digital design using verilog language, various RTL coding styles
       <img src="day1 simulation/4 dff syncres/4 dff syncres gtkwave output.png">
       <b>Fig.4 Finally simulation result</b><br />
       
-   <h2>Day 3 - Combinational and sequential optmizations</h2>
+   <h2>Day 3 - Combinational and sequential optimizations</h2>
       <ul>
 <li>Introduction to optimizations</li>
 <li>Combinational logic optimizations</li>
 <li>Sequential logic optimizations</li>
 <li>Sequential optimzations for unused outputs</li>
  </ul>
-<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for combinational and sequential designs. Most optimized logic is efficient in terms of <b>area and power saving.</b>Combinational logic optimization may use techniques such as<br /><ol><li>Constant propagation</li><li>Boolean logic optimization</li></ol>
+<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for combinational and sequential designs. Most optimized logic is efficient in terms of <b>area and power saving.</b> Combinational logic optimization may use techniques such as<br /><ol><li>Constant propagation</li><li>Boolean logic optimization</li></ol>
 </p>
