@@ -59,7 +59,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <h1>Day 1 - Introduction to Verilog RTL design and Synthesis</h1>
 
 <ul>
-  <li>Introduction to open-source simulator iverilog</li>
+  <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#introduction-to-open-source-simulator-iverilog">Introduction to open-source simulator iverilog</a></li>
   <li>Labs using iverilog and 
  <a href="http://gtkwave.sourceforge.net" onclick="window.open('http://gtkwave.sourceforge.net', '_self');">gtkwave</a></li>
 <li>Introduction to Yosys and Logic synthesis</li>
