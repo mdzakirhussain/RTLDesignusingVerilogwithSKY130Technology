@@ -290,7 +290,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
  </ul>
  
  <h3><li>Introduction to optimizations</li></h3>
-<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for combinational and sequential designs. Most optimized logic is efficient in terms of <b>area and power saving.</b></p><br /> 
+<p align="justify">In day 3 we have been given various examples on how do synthesizer tool will optimize the designs done in RTL for combinational and sequential designs. Most optimized logic is efficient in terms of <b>area and power saving.</b></p>
  
  <h3><li>Combinational logic optimizations</li></h3>
   
