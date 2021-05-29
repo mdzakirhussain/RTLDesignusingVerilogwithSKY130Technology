@@ -347,5 +347,22 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <b>Fig.4 Invoking of gtkwave command</b>
 
 <img src="day3 simulation/dff const2 simulation/5 sim op.png">
+<b>Fig.5 Simulation output</b><br />
+
+<br /><ul><li><b>DFF CONST3 Simulation results</b></li></ul>
+ 
+<img src="day3 simulation/dff const3 simulation/1 iverilog.png">
+<b>Fig.1 Invoke iverilog</b>
+
+<img src="day3 simulation/dff const3 simulation/2 a out.png">
+<b>Fig.2 Execute a.out file</b>
+
+<img src="day3 simulation/dff const3 simulation/3 vcd file generated.png">
+<b>Fig.3 VCD file generated</b>
+
+<img src="day3 simulation/dff const3 simulation/4 gtkwave command.png">
+<b>Fig.4 Invoking of gtkwave command</b>
+
+<img src="day3 simulation/dff const3 simulation/5 gtkwave op.png">
 <b>Fig.5 Simulation output</b>
 
