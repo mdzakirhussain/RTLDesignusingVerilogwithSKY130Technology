@@ -301,7 +301,8 @@ Learn basics of digital design using verilog language, various RTL coding styles
 <p align="justify">Sequential logic optimization can be divided into two<ol><li>Basic</li><ul><li>Sequential constant propagation</li></ul><li>Advanced</li></ol><ul><li>State optimization</li><li>Retiming</li><li>Sequential logic cloning (floor plan aware synthesis)</li></ul></p><br />
 
 <p align="justify">The following are the images of simulation results of various coding styles of DFF</p>
- <br /><ul><li><b>DFF CONST1 Simulation results</b></li></ul>
+
+<ul><li><b>DFF CONST1 Simulation results</b></li></ul>
  
 <img src="day3 simulation/dff const1 simulation/1 iverilog.png">
 <b>Fig.1 Invoke iverilog</b>
