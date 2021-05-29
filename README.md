@@ -63,7 +63,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#labs-using-iverilog-and-gtkwave">Labs using iverilog and 
  <a href="http://gtkwave.sourceforge.net" onclick="window.open('http://gtkwave.sourceforge.net', '_self');">gtkwave</a></a></li>
 <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#introduction-to-yosys-and-logic-synthesis">Introduction to Yosys and Logic synthesis</a></li>
-<li>Labs using Yosys and Sky130 PDKs</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#labs-using-yosys-and-sky130-pdks">Labs using Yosys and Sky130 PDKs</a></li>
 </ul>
 <h3><li>Introduction to open-source simulator iverilog</li></h3>
 <p align="justify">Icarus Verilog is a Verilog simulation and synthesis tool. It operates as a compiler, compiling source code written in Verilog (IEEE-1364) into some target format. For batch simulation, the compiler can generate an intermediate form called vvp assembly. This intermediate form is executed by the ``vvp'' command. For synthesis, the compiler generates netlists in the desired format.</p>
