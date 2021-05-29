@@ -315,7 +315,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <p align="justify">The following are the images of simulation results of various coding styles of DFF</p>
 
-<b>DFF CONST1 Simulation results</b>
+<ul><li><b>DFF CONST1 Simulation results</b></li></ul>
  
 <img src="day3 simulation/dff const1 simulation/1 iverilog.png">
 <b>Fig.1 Invoke iverilog</b>
