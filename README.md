@@ -368,7 +368,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <h4>The following are the images of synthesis results of various coding styles of combinational logic done in the lab<h4/>
 
-  <ul><li><b>opt_check synthesis results</b></li></ul>
+  <ul><li><b>opt_check is a design example synthesis results</b></li></ul>
   
   <img src="day3 synthesis/opt check/1 read liberty.png">
 <b>Fig.1 Read liberty file</b>
@@ -390,4 +390,34 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <img src="day3 synthesis/opt check/9 show op.png">
 <b>Fig.5 Graphical view of the cells using show command</b>
+  
+<h4>The following are the images of synthesis results of various coding styles of sequential logic done in the lab<h4/>  
 
+ <ul><li><b>DFF CONST1 is a design example synthesis results</b></li></ul>
+  
+  <img src="day3 synthesis/opt check/1 read liberty.png">
+<b>Fig.1 Read liberty file</b>
+  
+  <img src="ay3 synthesis/sequential/dff const1/4 read verilog.png">
+<b>Fig.2 Read verilog file</b>
+
+<img src="day3 synthesis/sequential/dff const1/5 synth top.png">
+<b>Fig.3 Synthesize the design using synth command</b>
+
+<img src="day3 synthesis/sequential/dff const1/6 after synth.png">
+<b>Fig.4 After synthesis</b>
+  
+  <img src="day3 synthesis/sequential/dff const1/7 dfflib command.png">
+<b>Fig.5 dfflibmap command</b>
+  
+  <img src="day3 synthesis/sequential/dff const1/8 after dfflib.png">
+<b>Fig.6 After dfflibmap command</b>
+  
+  <img src="day3 synthesis/sequential/dff const1/7 abc command.png">
+<b>Fig.7 Mapping to standard cells using abc command</b>
+
+<img src="day3 synthesis/sequential/dff const1/10 after abc.png">
+<b>Fig.8 After mapping done using abc command</b>
+
+<img src="day3 synthesis/sequential/dff const1/11 show op.png">
+<b>Fig.9 Graphical view of the cells using show command</b>
