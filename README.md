@@ -32,7 +32,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
 
 <ul>
 <li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#introduction-to-optimizations">Introduction to optimizations</a></li>
-<li>Combinational logic optimizations</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology/blob/main/README.md#combinational-logic-optimizations">Combinational logic optimizations</a></li>
 <li>Sequential logic optimizations</li>
 <li>Sequential optimzations for unused outputs</li>
 </ul>
