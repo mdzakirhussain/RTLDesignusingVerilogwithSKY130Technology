@@ -283,7 +283,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
       
    <h2>Day 3 - Combinational and sequential optimizations</h2>
       <ul>
-<li>Introduction to optimizations</li>
+<li><a href="https://github.com/mdzakirhussain/RTLDesignusingVerilogwithSKY130Technology#introduction-to-optimizations">Introduction to optimizations</a></li>
 <li>Combinational logic optimizations</li>
 <li>Sequential logic optimizations</li>
 <li>Sequential optimzations for unused outputs</li>
