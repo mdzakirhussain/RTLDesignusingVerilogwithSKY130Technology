@@ -164,7 +164,7 @@ Learn basics of digital design using verilog language, various RTL coding styles
   <b>Fig.7 Standard cell netlist generation command</b>
   
   <img src="day1 synthesis/1 mux/8 after netlist.png">
-  <b>Fig.8 After stabdard cell netlist</b>
+  <b>Fig.8 After standard cell netlist</b>
   
   <img src="day1 synthesis/1 mux/9 write netlist.png">
   <b>Fig.9 Writing out standard cell netlist to a file</b>
